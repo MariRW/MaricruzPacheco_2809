@@ -1,0 +1,8 @@
+La organización enfocada a la organización y administración de centros de cómputoes para mi
+la estructura y las jerarquías que se asignan dentro de algún centro de cómputo, es decir,
+cuando existe un jefe y este mismo aigna jefes para cada departamento, haciendo así que el 
+centro de cómputo funcione adecuadamente.
+Pensando que esto va desde lo mas básico, creo que puedo ejemplificarlo con la organización
+que hay en una empresa, puede que exista un departamento de limpieza del lugar, 
+un departamento de mantenimiento, los operadores o trabajadores, según sea a lo que se 
+dedique esa empresa, todos estos desginados desde los rangos mas altos.
